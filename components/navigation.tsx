@@ -16,7 +16,7 @@ export default function Navigation() {
         </li>
         <li>
           <Link href={"/about-us"}>About Us</Link>{" "}
-          {path === "/about-us" ? "🎈" : ""}
+          {path === "/about-us" ? "🎈1" : ""}
         </li>
       </ul>
     </nav>
